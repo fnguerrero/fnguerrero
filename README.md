@@ -11,6 +11,7 @@ Desarrollador .NET Senior · IA aplicada · Buenos Aires, Argentina
 **Destacados**
 
 - [Multimarket](https://github.com/fnguerrero/multimarket): .NET 10 y React. Compara el costo real de una compra en 13 tiendas, con cuotas a valor presente.
+- [DevAtlas](https://github.com/fnguerrero/devatlas-app): ASP.NET Core 10, EF Core y React. Catálogo de aplicaciones con login de Google, JWT y tests de integración.
 - [Déficit](https://github.com/fnguerrero/deficit): PWA que estima calorías por foto con un LLM con visión, con proxy en Cloudflare Workers.
 - [Visor /nonstop](https://github.com/fnguerrero/visor-nonstop): seguimiento de trabajos largos de agentes de IA.
 
