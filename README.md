@@ -1,12 +1,8 @@
-### Nicolás Guerrero
+### Desarrollador .NET Senior · IA aplicada
 
-Desarrollador .NET Senior · IA aplicada · Buenos Aires, Argentina
+Más de 13 años con .NET. Backend en C# y ASP.NET Core, front en React, y la IA aplicada como diferencial: agentes, Claude Code y servidores MCP.
 
-13 años de .NET en YPF, Techint, Telecom Personal y Farmalink. Backend en C# y ASP.NET Core, front en React, y la IA aplicada como diferencial: agentes, Claude Code y servidores MCP.
-
-**Mail:** f.nicolas.guerrero@gmail.com
-
-**Stack:** C# · .NET · ASP.NET Core · EF Core · SQL Server · PostgreSQL · MySQL · React · TypeScript · Docker · GitLab CI/CD · AWS · Azure (AZ-204) · Python · Claude Code · MCP
+**Stack:** C# · .NET · ASP.NET Core · EF Core · SQL Server · PostgreSQL · MySQL · React · TypeScript · Docker · GitLab CI/CD · AWS · Azure · Python · Claude Code · MCP
 
 **Destacados**
 
